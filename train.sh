@@ -12,4 +12,5 @@ train.py \
 --dataset PY007/slimpajama_mistral_tokenized_upsample_4096_chunk_128K \
 --model output/h2o-danube2-1.8b-base  \
 --seq-length 16000 \
+--rope-theta 30000 \
 --parallel_mode data_parallel

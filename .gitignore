@@ -1,1 +1,4 @@
 __pycache__
+/wandb
+/results
+/llama-3-8b-chat-doctor
